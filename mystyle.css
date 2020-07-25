@@ -1,0 +1,80 @@
+<style>
+ form { 
+        border: 3px solid 	#000000; 
+        text-align: center;
+        margin-left: 25%;
+        
+        }
+   button { 
+        background-color: #15f4ee; 
+        color: white; 
+        padding: 14px 20px; 
+        margin: 8px 0; 
+        border: none; 
+        cursor: pointer; 
+        width: 95%; 
+    } 
+     .container { 
+      height=100px;
+      width=5%;
+      padding: 18px; 
+    } 
+    header {
+  background-color:#15f4ee; 
+  padding:1px 20px;
+  text-align: center;
+  margin: 6px 0;
+  font-size:18px;
+  color: white;
+  width: 90%;
+}
+
+ input[type=text], 
+    input[type=password] { 
+        width: 100%; 
+        padding: 12px 20px; 
+        margin: 8px 0; 
+        font-size: 18px;
+        display: inline-block; 
+        border: 1px solid #000000; 
+        box-sizing: border-box; 
+    }
+        
+
+  
+
+.input-icons i { 
+      position: absolute; 
+    } 
+    
+    .input-icons { 
+      width: 100%; 
+      margin-bottom: 10px; 
+    } 
+    
+    .icon { 
+  
+      padding: 20px; 
+      min-width: 10px; 
+    } 
+    
+    .input-field { 
+      align-items: left;
+      width: 100%; 
+      padding: 20px; 
+      text-align: center; 
+    } 
+
+.blue
+{      background-color: #008CBA;
+        }
+.red
+{
+        
+background-color: #f44336;}
+.green
+{
+ background-color: #90F500;
+}
+          
+</style> 
